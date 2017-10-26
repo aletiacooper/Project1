@@ -2,8 +2,11 @@ body{
 	background-color: #B3B3D7;
 }
 .pencil{
-	text-align: left;
-}
+	text-align:left;color: #FF00FF
+ }
 .book{
-	text-align: center;
+	text-align: center;color: #000FFF
+}
+.pen{
+	text-align: left;color:purple
 }
